@@ -10,6 +10,8 @@ A **model-agnostic reasoning skill** that forces structured thinking before prod
 
 If Transformers proved attention is the architecture, this skill proves thinking is the methodology.
 
+> 📖 **Read the story behind this project:** [Thinking Is All You Need：我给 Agent 加上"思考流程"后，准确率突然提升了](STORY.md)
+
 ## Problem
 
 Large reasoning models think internally. Smaller models skip straight to output, producing:
