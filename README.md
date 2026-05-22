@@ -2,6 +2,8 @@
 
 [![agentskills.io](https://img.shields.io/badge/agentskills.io-compatible-4B32C3)](https://agentskills.io)
 
+> [📖 阅读中文版 (Read in Chinese) →](README.zh-CN.md)
+
 > *Inspired by "Attention Is All You Need" (Vaswani et al., 2017) & "If I had an hour to solve a problem, I'd spend 55 minutes thinking and 5 minutes solving." — Albert Einstein*
 
 A **model-agnostic reasoning skill** that forces structured thinking before producing answers.
@@ -10,7 +12,7 @@ A **model-agnostic reasoning skill** that forces structured thinking before prod
 
 If Transformers proved attention is the architecture, this skill proves thinking is the methodology.
 
-> 📖 **Read the story behind this project:** [How Adding a "Thinking Workflow" to My Agent Suddenly Boosted Accuracy](STORY.md) — English & 中文
+> 📖 **Read the story behind this project:** [How Adding a "Thinking Workflow" to My Agent Suddenly Boosted Accuracy](STORY.md) | [中文版](STORY.zh-CN.md)
 
 ## Problem
 
@@ -115,10 +117,12 @@ The only skill that gates **every answer type** behind a reasoning process with 
 
 ```
 thinking-is-all-you-need/
-├── SKILL.md    # The skill
-├── STORY.md    # The origin story (English & 中文)
-├── README.md   # This file
-└── LICENSE     # MIT
+├── SKILL.md         # The skill
+├── STORY.md         # The origin story (English)
+├── STORY.zh-CN.md   # The origin story (中文)
+├── README.md        # This file (English)
+├── README.zh-CN.md  # This file (中文)
+└── LICENSE          # MIT
 ```
 
 ## License
