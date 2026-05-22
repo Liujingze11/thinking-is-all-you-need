@@ -10,7 +10,7 @@ A **model-agnostic reasoning skill** that forces structured thinking before prod
 
 If Transformers proved attention is the architecture, this skill proves thinking is the methodology.
 
-> 📖 **Read the story behind this project:** [Thinking Is All You Need：我给 Agent 加上"思考流程"后，准确率突然提升了](STORY.md)
+> 📖 **Read the story behind this project:** [How Adding a "Thinking Workflow" to My Agent Suddenly Boosted Accuracy](STORY.md) — English & 中文
 
 ## Problem
 
@@ -116,6 +116,7 @@ The only skill that gates **every answer type** behind a reasoning process with 
 ```
 thinking-is-all-you-need/
 ├── SKILL.md    # The skill
+├── STORY.md    # The origin story (English & 中文)
 ├── README.md   # This file
 └── LICENSE     # MIT
 ```
